@@ -1,0 +1,55 @@
+<script>
+	var answer=prompt("what is 9*0");
+	if(answer=="0")alert("well done");
+	else alert("wrong");
+
+
+var answer=prompt("what is 9*1");
+	if(answer=="9")alert("well done");
+	else alert("wrong");
+
+
+var answer=prompt("what is 9*2");
+	if(answer=="18")alert("well done");
+	else alert("wrong");
+
+
+var answer=prompt("what is 9*3");
+	if(answer=="27")alert("well done");
+	else alert("wrong");
+
+
+var answer=prompt("what is 9*4");
+	if(answer=="36")alert("well done");
+	else alert("wrong");
+
+
+var answer=prompt("what is 9*5");
+	if(answer=="45")alert("well done");
+	else alert("wrong");
+
+
+var answer=prompt("what is 9*6");
+	if(answer=="54")alert("well done");
+	else alert("wrong");
+
+
+var answer=prompt("what is 9*7");
+	if(answer=="63")alert("well done");
+	else alert("wrong");
+
+
+var answer=prompt("what is 9*8");
+	if(answer=="72")alert("well done");
+	else alert("wrong");
+
+
+var answer=prompt("what is 9*9");
+	if(answer=="81")alert("well done");
+	else alert("wrong");
+
+
+var answer=prompt("what is 9*10");
+	if(answer=="90")alert("well done");
+	else alert("wrong");
+</script>
