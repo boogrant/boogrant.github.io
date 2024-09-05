@@ -1,0 +1,49 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#post-form {
+    margin: 20px;
+}
+
+form label {
+    display: block;
+    margin: 5px 0;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.post {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.post .like-btn {
+    cursor: pointer;
+    color: #ff0000;
+    font-size: 20px;
+}
